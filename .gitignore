@@ -12,3 +12,8 @@
 /ScanLogsForShanghai18/obj
 /TestCsharp/obj
 /TestXml/obj
+/Cpp/RAII/x64/Debug
+/Cpp/RAII/x64/Release
+/Cpp/Reference/x64/Release
+/Cpp/Template/x64/Release
+/Cpp/TestMuiltThreads/Debug

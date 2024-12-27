@@ -17,3 +17,9 @@
 /Cpp/Reference/x64/Release
 /Cpp/Template/x64/Release
 /Cpp/TestMuiltThreads/Debug
+/Linker/DLL/x64/Debug
+/Linker/DLL/x64/Release
+/Linker/Dll1/x64/Debug
+/Linker/Dll1/x64/Release
+/Linker/Dll2/x64/Debug
+/Linker/Dll2/x64/Release

@@ -18,9 +18,21 @@
     <ClInclude Include="DLL2.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\Dll3\pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Dll3\framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DLL2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dll3\dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Dll3\pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

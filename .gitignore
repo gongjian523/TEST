@@ -1,0 +1,14 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ScanLogsForBeijingYZ/obj
+/.vs
+/Cpp/Polymorphism/x64/Debug
+/Generate5CRecFiles/obj
+/ScanFiles/obj
+/ScanLogsDelete/obj
+/ScanLogsForLiveMsg/obj
+/ScanLogsForShanghai18/obj
+/TestCsharp/obj
+/TestXml/obj
